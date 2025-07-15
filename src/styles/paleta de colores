@@ -1,0 +1,13 @@
+fondo principal = bg-blue-50
+
+Tipo de texto	Clase Tailwind sugerida	Uso recomendado
+Título principal (H1, H2)	text-blue-900	Azul muy oscuro, da fuerza y buen contraste
+Subtítulos (H3, H4)	text-blue-800	Azul oscuro más suave, elegante
+Texto normal / párrafos	text-gray-800	Gris oscuro, legible y neutral
+Texto secundario / detalles	text-gray-600	Gris medio, para info menos relevante
+Enlaces / botones texto	text-blue-700 hover:text-blue-900	Azul intermedio con hover destacado
+Texto en botones claros	text-white con bg-blue-700 o similar
+
+fondo secundario bg-blue-800
+
+para hover bg-blue-100
